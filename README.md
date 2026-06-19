@@ -18,12 +18,13 @@ React**. Sucessor com interface gráfica do script `clean-meta.sh`.
 | Plataforma | Link |
 |---|---|
 | 🌐 **Web / Celular (sem instalar)** | **[Abrir no navegador](https://zai-forge.github.io/zais-mcleaner/)** |
-| 🤖 **Android (APK)** | [Baixar última versão](https://github.com/zai-forge/zais-mcleaner/releases/latest) |
+| 🤖 **Android (APK)** | **[Baixar APK](https://github.com/zai-forge/zais-mcleaner/releases/latest/download/app-universal-debug.apk)** (~426 MB) |
 | 🪟 **Windows (.exe / .msi)** | [Baixar última versão](https://github.com/zai-forge/zais-mcleaner/releases/latest) |
 | 📦 **Todas as versões** | [Releases](https://github.com/zai-forge/zais-mcleaner/releases) |
 
 > No celular, a forma mais fácil é abrir o link da Web e usar "Adicionar à tela
-> inicial". O APK é para quem prefere instalar como app.
+> inicial". O APK é para quem prefere instalar como app — instale permitindo
+> "fontes desconhecidas" no Android.
 
 ---
 
