@@ -1,0 +1,76 @@
+{
+  "app": {
+    "title": "Zai's MCleaner",
+    "tagline": "Strip metadata from your media before sharing"
+  },
+  "trust": {
+    "badge": "Everything runs on your device — nothing is uploaded"
+  },
+  "dropzone": {
+    "title": "Drop images or videos here",
+    "subtitle": "or tap to choose",
+    "formats": "Images: JPG, PNG, GIF, WebP, TIFF, BMP · Videos: MP4, WebM, MOV",
+    "add": "Add files"
+  },
+  "list": {
+    "empty": "No files yet",
+    "detected": "Metadata found",
+    "none": "No sensitive metadata",
+    "checking": "Analyzing…",
+    "remove": "Remove from list",
+    "clearAll": "Clear list"
+  },
+  "meta": {
+    "gps": "Location (GPS)",
+    "camera": "Camera/device",
+    "date": "Date and time",
+    "software": "Software/editing",
+    "other": "Other metadata",
+    "count": "{{count}} field",
+    "count_plural": "{{count}} fields"
+  },
+  "actions": {
+    "cleanAll": "Clean all",
+    "cleaning": "Cleaning…",
+    "downloadAll": "Download all",
+    "download": "Download",
+    "share": "Share",
+    "save": "Save",
+    "report": "Export report"
+  },
+  "status": {
+    "pending": "Queued",
+    "analyzing": "Analyzing",
+    "cleaning": "Cleaning",
+    "ok": "Already clean",
+    "cleaned": "Cleaned",
+    "error": "Error",
+    "verified": "✓ verified: 0 sensitive metadata"
+  },
+  "video": {
+    "warning": "Videos are re-encoded to erase the encoder fingerprint. This can be slow and memory-heavy, especially on phones.",
+    "loadingEngine": "Loading video engine…"
+  },
+  "result": {
+    "summary": "{{cleaned}} cleaned · {{ok}} already clean · {{error}} failed",
+    "doneTitle": "Done!",
+    "doneSubtitle": "Your files are metadata-free."
+  },
+  "lang": {
+    "label": "Language",
+    "pt": "Português",
+    "en": "English"
+  },
+  "theme": {
+    "toggle": "Toggle theme"
+  },
+  "footer": {
+    "openSource": "Open source",
+    "local": "100% local processing"
+  },
+  "errors": {
+    "unsupported": "Unsupported format",
+    "tooLarge": "File too large to process safely in the browser",
+    "failed": "Processing failed — original file left intact"
+  }
+}

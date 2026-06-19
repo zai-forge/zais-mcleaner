@@ -1,0 +1,24 @@
+# dependências
+node_modules/
+
+# build web
+dist/
+*.local
+*.tsbuildinfo
+
+# Rust / Tauri
+src-tauri/target/
+src-tauri/gen/
+
+# logs e sistema
+*.log
+.DS_Store
+.vite/
+
+# editores
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# documentação pessoal (não versionar)
+GUIA.md

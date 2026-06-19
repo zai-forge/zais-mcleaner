@@ -1,0 +1,76 @@
+{
+  "app": {
+    "title": "Zai's MCleaner",
+    "tagline": "Remove os metadados das suas mídias antes de compartilhar"
+  },
+  "trust": {
+    "badge": "Tudo acontece no seu aparelho — nada é enviado para a internet"
+  },
+  "dropzone": {
+    "title": "Solte imagens ou vídeos aqui",
+    "subtitle": "ou toque para escolher",
+    "formats": "Imagens: JPG, PNG, GIF, WebP, TIFF, BMP · Vídeos: MP4, WebM, MOV",
+    "add": "Adicionar arquivos"
+  },
+  "list": {
+    "empty": "Nenhum arquivo ainda",
+    "detected": "Metadados encontrados",
+    "none": "Nenhum metadado sensível",
+    "checking": "Analisando…",
+    "remove": "Remover da lista",
+    "clearAll": "Limpar lista"
+  },
+  "meta": {
+    "gps": "Localização (GPS)",
+    "camera": "Câmera/dispositivo",
+    "date": "Data e hora",
+    "software": "Software/edição",
+    "other": "Outros metadados",
+    "count": "{{count}} campo",
+    "count_plural": "{{count}} campos"
+  },
+  "actions": {
+    "cleanAll": "Limpar tudo",
+    "cleaning": "Limpando…",
+    "downloadAll": "Baixar tudo",
+    "download": "Baixar",
+    "share": "Compartilhar",
+    "save": "Salvar",
+    "report": "Exportar relatório"
+  },
+  "status": {
+    "pending": "Na fila",
+    "analyzing": "Analisando",
+    "cleaning": "Limpando",
+    "ok": "Já estava limpo",
+    "cleaned": "Limpo",
+    "error": "Erro",
+    "verified": "✓ verificado: 0 metadados sensíveis"
+  },
+  "video": {
+    "warning": "Vídeos são re-codificados para apagar a impressão digital do codificador. Pode demorar e consumir bastante memória, principalmente no celular.",
+    "loadingEngine": "Carregando motor de vídeo…"
+  },
+  "result": {
+    "summary": "{{cleaned}} limpos · {{ok}} já limpos · {{error}} com erro",
+    "doneTitle": "Pronto!",
+    "doneSubtitle": "Seus arquivos estão sem metadados."
+  },
+  "lang": {
+    "label": "Idioma",
+    "pt": "Português",
+    "en": "English"
+  },
+  "theme": {
+    "toggle": "Alternar tema"
+  },
+  "footer": {
+    "openSource": "Código aberto",
+    "local": "Processamento 100% local"
+  },
+  "errors": {
+    "unsupported": "Formato não suportado",
+    "tooLarge": "Arquivo muito grande para processar com segurança no navegador",
+    "failed": "Falha ao processar — arquivo original mantido intacto"
+  }
+}
